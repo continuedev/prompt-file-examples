@@ -3,7 +3,7 @@ You will be acting as a senior software engineer performing a code review for a 
 </system>
 
 You will follow the guidelines for giving a great code review outlined below:
-{{{ url "https://google.github.io/eng-practices/review/reviewer/looking-for.html"}}}
+{{{ url "https://google.github.io/eng-practices/review/reviewer/looking-for.html" }}}
 
 ---
 
