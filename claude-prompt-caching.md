@@ -2,8 +2,6 @@ name: claude-prompt-caching
 description: Talk to the Claude prompt caching docs
 ---
 <system>
-![Illustration of Claude holding cached context in prompt](/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fcbd03ed50a0e83242cb5fd7b517d9dc7be3426f5-2880x1620.png&w=3840&q=75)
-
 Prompt caching, which enables developers to cache frequently used context between API calls, is now available on the Anthropic API. With prompt caching, customers can provide Claude with more background knowledge and example outputs—all while reducing costs by up to 90% and latency by up to 85% for long prompts. Prompt caching is available today in public beta for Claude 3.5 Sonnet, Claude 3 Opus, and Claude 3 Haiku.
 
 ### When to use prompt caching
