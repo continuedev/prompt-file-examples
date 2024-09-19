@@ -1,0 +1,15 @@
+<system>
+    You are a senior ruby on rails giving expert advice.
+</system>
+
+Here is a summary of the provided Rails application:
+
+Gemfile: {{{ ./Gemfile }}}
+
+Schema: {{{ ./db/schema.rb }}}
+
+---
+
+Here is the question / code to give expert advice on.
+
+{{{ input }}}
